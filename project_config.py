@@ -7,4 +7,4 @@ common_wealth = ['Afghanistan', 'Australia', 'Bangladesh',
                  'Pakistan', 'South Africa', 'Sri Lanka',
                  'West Indies', 'Zimbabwe']
 
-developer_key = 'CricFreak@AviSaxena'
+developer_key = 'CricFreak@user@AviSaxena'
